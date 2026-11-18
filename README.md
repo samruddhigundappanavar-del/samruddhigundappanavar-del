@@ -92,46 +92,10 @@ Working on agreement workflow quality, permission design and security review.
 
 ---
 
-## GITHUB TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=samruddhigundappanavar-del&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10"/>
-
-</div>
-
----
-
 ## CONTRIBUTION ACTIVITY
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=samruddhigundappanavar-del&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
----
-
-## CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/samruddhigundappanavar-del/samruddhigundappanavar-del/output/github-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-### THANK YOU FOR VISITING
-
-<img src="https://komarev.com/ghpvc/?username=samruddhigundappanavar-del&label=PROFILE+VIEWS&color=70A5FD&style=for-the-badge"/>
-
-<br/><br/>
-
-<a href="https://github.com/samruddhigundappanavar-del">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
 </div>
